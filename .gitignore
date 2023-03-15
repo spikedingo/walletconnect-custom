@@ -1,0 +1,6 @@
+node_modules/
+packages/*/dist/
+packages/*/.rts2_cache_cjs/
+packages/example-next/.next/
+.env.local
+dist

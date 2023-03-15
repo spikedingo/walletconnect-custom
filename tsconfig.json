@@ -1,0 +1,18 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "moduleResolution": "Node",
+    "outDir": "dist",
+    "jsx": "react"
+  },
+  "exclude": ["**/*.spec.ts"],
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Recommended"
+}
